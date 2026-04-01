@@ -1,5 +1,4 @@
-<h1 align="center">Hello null👋, I'm HaskellJunkie</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">Hello null👋, I'm Haskell Junkie</h1>
 <p align="left">
 </p>
 
