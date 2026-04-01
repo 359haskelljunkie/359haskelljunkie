@@ -1,4 +1,4 @@
-<h1 align="center">Hello null👋, I'm Haskell Junkie</h1>
+<h1 align="center">Hello.null :: Haskell Junkie -> Lazy by Nature</h1>
 <p align="left">
 </p>
 
