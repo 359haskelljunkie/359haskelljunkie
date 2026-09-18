@@ -161,10 +161,3 @@ I like programming when the code is not merely a sequence of instructions, but a
 
 ---
 
-## 🚀 What I'm Working Towards
-
-I'm preparing for a career as a **Haskell Developer**, while deepening my understanding of the mathematical foundations of functional programming.
-
-My goal is not simply to learn more syntax.
-
-It
